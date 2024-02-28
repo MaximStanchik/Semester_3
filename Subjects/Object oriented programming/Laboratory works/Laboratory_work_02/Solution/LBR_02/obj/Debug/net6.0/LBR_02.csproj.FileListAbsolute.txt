@@ -1,0 +1,14 @@
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\bin\Debug\net6.0\LBR_02.exe
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\bin\Debug\net6.0\LBR_02.deps.json
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\bin\Debug\net6.0\LBR_02.runtimeconfig.json
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\bin\Debug\net6.0\LBR_02.dll
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\bin\Debug\net6.0\LBR_02.pdb
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.AssemblyInfoInputs.cache
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.AssemblyInfo.cs
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.dll
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\refint\LBR_02.dll
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.pdb
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\LBR_02.genruntimeconfig.cache
+D:\User\Desktop\Everythin' for BSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_02\Solution\LBR_02\obj\Debug\net6.0\ref\LBR_02.dll

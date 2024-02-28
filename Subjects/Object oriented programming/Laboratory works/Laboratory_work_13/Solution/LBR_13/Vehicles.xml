@@ -1,0 +1,17 @@
+﻿<vehicles>
+	<car>
+		<name>Car1</name>
+		<maxSpeed>200</maxSpeed>
+		<numberOfDoors>4</numberOfDoors>
+	</car>
+	<car>
+		<name>Car2</name>
+		<maxSpeed>180</maxSpeed>
+		<numberOfDoors>2</numberOfDoors>
+	</car>
+	<car>
+		<name>Car3</name>
+		<maxSpeed>220</maxSpeed>
+		<numberOfDoors>4</numberOfDoors>
+	</car>
+</vehicles>

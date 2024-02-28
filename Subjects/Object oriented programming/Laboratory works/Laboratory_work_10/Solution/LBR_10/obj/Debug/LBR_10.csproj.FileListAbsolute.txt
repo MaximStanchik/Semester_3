@@ -1,0 +1,7 @@
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\bin\Debug\LBR_10.exe.config
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\bin\Debug\LBR_10.exe
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\bin\Debug\LBR_10.pdb
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\obj\Debug\LBR_10.csproj.AssemblyReference.cache
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\obj\Debug\LBR_10.csproj.CoreCompileInputs.cache
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\obj\Debug\LBR_10.exe
+D:\User\Desktop\EverythingForBSTU\ООП\2-ой курс, 3-ий семестр\Лабораторные работы\Laboratory_work_10\Solution\LBR_10\obj\Debug\LBR_10.pdb

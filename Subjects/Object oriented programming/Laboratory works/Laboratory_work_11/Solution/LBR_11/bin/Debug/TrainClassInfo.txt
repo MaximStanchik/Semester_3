@@ -1,0 +1,5 @@
+Assembly Name: LBR_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Has Public Constructors: True
+Public Methods: get_Destination, get_TrainNumber, get_DepartureTime, get_CommonSeats, get_CoupeSeats, get_ReservedSeats, get_LuxurySeats, Equals, GetHashCode, ToString, GetType
+Fields and Properties: Destination, TrainNumber, DepartureTime, CommonSeats, CoupeSeats, ReservedSeats, LuxurySeats
+Implemented Interfaces: 
