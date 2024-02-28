@@ -1,0 +1,4 @@
+Number:CB 41352
+Way Length:55,7194759487201km
+Speed:80km/h
+Status:busy

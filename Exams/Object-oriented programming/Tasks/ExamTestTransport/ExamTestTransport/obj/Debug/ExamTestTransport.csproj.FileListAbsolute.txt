@@ -1,0 +1,8 @@
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\bin\Debug\ExamTestTransport.exe.config
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\bin\Debug\ExamTestTransport.exe
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\bin\Debug\ExamTestTransport.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\obj\Debug\ExamTestTransport.csproj.AssemblyReference.cache
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\obj\Debug\ExamTestTransport.csproj.CoreCompileInputs.cache
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\obj\Debug\ExamTestTransport.exe
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\obj\Debug\ExamTestTransport.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestTransport\ExamTestTransport\obj\Debug\ExamTestTransport.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,11 @@
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\bin\Debug\ExamTestUser.exe.config
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\bin\Debug\ExamTestUser.exe
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\bin\Debug\ExamTestUser.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\obj\Debug\ExamTestUser.csproj.AssemblyReference.cache
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\obj\Debug\ExamTestUser.csproj.CoreCompileInputs.cache
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\obj\Debug\ExamTestUser.exe
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\obj\Debug\ExamTestUser.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\bin\Debug\Newtonsoft.Json.dll
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\bin\Debug\Newtonsoft.Json.xml
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\obj\Debug\ExamTestUser.csproj.CopyComplete
+E:\Labs2sem\ObjOrientProg\ExamTestUser\ExamTestUser\obj\Debug\ExamTestUser.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,8 @@
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\bin\Debug\ExamTestTaxi.exe.config
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\bin\Debug\ExamTestTaxi.exe
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\bin\Debug\ExamTestTaxi.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\obj\Debug\ExamTestTaxi.csproj.AssemblyReference.cache
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\obj\Debug\ExamTestTaxi.csproj.CoreCompileInputs.cache
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\obj\Debug\ExamTestTaxi.exe
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\obj\Debug\ExamTestTaxi.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestTaxi\ExamTestTaxi\obj\Debug\ExamTestTaxi.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,10 @@
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\bin\Debug\ExamTestTime.exe.config
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\bin\Debug\ExamTestTime.exe
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\bin\Debug\ExamTestTime.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\obj\Debug\ExamTestTime.csproj.CoreCompileInputs.cache
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\obj\Debug\ExamTestTime.exe
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\obj\Debug\ExamTestTime.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\bin\Debug\Newtonsoft.Json.dll
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\bin\Debug\Newtonsoft.Json.xml
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\obj\Debug\ExamTestTime.csproj.CopyComplete
+E:\Labs2sem\ObjOrientProg\ExamTestTime\ExamTestTime\obj\Debug\ExamTestTime.csproj.AssemblyReference.cache

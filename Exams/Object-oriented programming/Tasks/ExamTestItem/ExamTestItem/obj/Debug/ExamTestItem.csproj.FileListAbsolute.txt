@@ -1,0 +1,8 @@
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\bin\Debug\ExamTestItem.exe.config
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\bin\Debug\ExamTestItem.exe
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\bin\Debug\ExamTestItem.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\obj\Debug\ExamTestItem.csproj.AssemblyReference.cache
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\obj\Debug\ExamTestItem.csproj.CoreCompileInputs.cache
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\obj\Debug\ExamTestItem.exe
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\obj\Debug\ExamTestItem.pdb
+E:\Labs2sem\ObjOrientProg\ExamTestItem\ExamTestItem\obj\Debug\ExamTestItem.csproj.SuggestedBindingRedirects.cache
