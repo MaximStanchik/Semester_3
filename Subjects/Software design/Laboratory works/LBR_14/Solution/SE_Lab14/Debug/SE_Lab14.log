@@ -1,0 +1,23 @@
+﻿Сборка начата 07.10.2023 15:07:48.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\EverythingForBSTU\Narkevich\КПО\2-ой курс 3-ий семестр\LaboratoryWorks\LBR_14\Solution\SE_Lab14\SE_Lab14.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_Lab14.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\EverythingForBSTU\Narkevich\КПО\2-ой курс 3-ий семестр\LaboratoryWorks\LBR_14\Solution\SE_Lab14\Debug\SE_Lab14.exe" /INCREMENTAL /ILK:"Debug\SE_Lab14.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\EverythingForBSTU\Narkevich\КПО\2-ой курс 3-ий семестр\LaboratoryWorks\LBR_14\Solution\SE_Lab14\Debug\SE_Lab14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\EverythingForBSTU\Narkevich\КПО\2-ой курс 3-ий семестр\LaboratoryWorks\LBR_14\Solution\SE_Lab14\Debug\SE_Lab14.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\In.obj
+         Debug\laba_14.obj
+         Debug\log.obj
+         Debug\Parm.obj
+         SE_Lab14.vcxproj -> D:\User\Desktop\EverythingForBSTU\Narkevich\КПО\2-ой курс 3-ий семестр\LaboratoryWorks\LBR_14\Solution\SE_Lab14\Debug\SE_Lab14.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab14.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab14.tlog\SE_Lab14.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\EverythingForBSTU\Narkevich\КПО\2-ой курс 3-ий семестр\LaboratoryWorks\LBR_14\Solution\SE_Lab14\SE_Lab14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.12
