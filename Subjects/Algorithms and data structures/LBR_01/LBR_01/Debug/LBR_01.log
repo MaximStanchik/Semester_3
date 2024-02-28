@@ -1,0 +1,26 @@
+﻿Сборка начата 06.02.2024 12:37:49.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\StudyAtBSTU\Course 2\Semester 3\Subjects\Algorithms and data structures\LBR_01\LBR_01\LBR_01.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LBR_01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\LBR_01.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Solution.cpp toCheckInput.cpp
+         Solution.cpp
+         toCheckInput.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\StudyAtBSTU\Course 2\Semester 3\Subjects\Algorithms and data structures\LBR_01\LBR_01\Debug\LBR_01.exe" /INCREMENTAL /ILK:"Debug\LBR_01.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\StudyAtBSTU\Course 2\Semester 3\Subjects\Algorithms and data structures\LBR_01\LBR_01\Debug\LBR_01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\StudyAtBSTU\Course 2\Semester 3\Subjects\Algorithms and data structures\LBR_01\LBR_01\Debug\LBR_01.lib" /MACHINE:X86 Debug\Solution.obj
+         Debug\toCheckInput.obj
+         LBR_01.vcxproj -> D:\User\Desktop\StudyAtBSTU\Course 2\Semester 3\Subjects\Algorithms and data structures\LBR_01\LBR_01\Debug\LBR_01.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_01\LBR_01\Solution.cpp.
+       FinalizeBuildStatus:
+         Файл "Debug\LBR_01.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LBR_01.tlog\LBR_01.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\StudyAtBSTU\Course 2\Semester 3\Subjects\Algorithms and data structures\LBR_01\LBR_01\LBR_01.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.04

@@ -1,0 +1,30 @@
+﻿Сборка начата 29.12.2023 10:19:27.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\LBR_10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LBR_10.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\LBR_10.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Main.cpp
+         Main.cpp
+     1>D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\AntColony.h(33,18): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+     1>D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\Main.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\Debug\LBR_10.exe" /INCREMENTAL /ILK:"Debug\LBR_10.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\Debug\LBR_10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\Debug\LBR_10.lib" /MACHINE:X86 Debug\AntColony.obj
+         Debug\Main.obj
+         LBR_10.vcxproj -> D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\Debug\LBR_10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LBR_10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LBR_10.tlog\LBR_10.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\LBR_10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\LBR_10.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\AntColony.h(33,18): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+         D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_10\Solution\LBR_10\Main.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.34

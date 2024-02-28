@@ -1,0 +1,20 @@
+﻿Сборка начата 21.09.2023 15:38:49.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_02\Решение\MySolution\Solution\Solution.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\Solution.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Solution.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Solution.vcxproj -> D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_02\Решение\MySolution\Solution\x64\Debug\Solution.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Solution.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Solution.tlog\Solution.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\Everythin' for BSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_02\Решение\MySolution\Solution\Solution.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.03

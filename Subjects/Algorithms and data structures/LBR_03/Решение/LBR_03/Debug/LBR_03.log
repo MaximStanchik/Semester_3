@@ -1,0 +1,20 @@
+﻿Сборка начата 05.10.2023 15:06:26.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_03\Решение\LBR_03\LBR_03.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LBR_03.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_03\Решение\LBR_03\Debug\LBR_03.exe" /INCREMENTAL /ILK:"Debug\LBR_03.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_03\Решение\LBR_03\Debug\LBR_03.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_03\Решение\LBR_03\Debug\LBR_03.lib" /MACHINE:X86 Debug\Graph.obj
+         Debug\Main.obj
+         LBR_03.vcxproj -> D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_03\Решение\LBR_03\Debug\LBR_03.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LBR_03.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LBR_03.tlog\LBR_03.lastbuildstate".
+     1>Сборка проекта "D:\User\Desktop\EverythingForBSTU\Алгоритмы и структуры данных\2-st course, 3-nd semester\Laboratory works\LBR_03\Решение\LBR_03\LBR_03.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.42

@@ -1,0 +1,77 @@
+#include "stdafx.h"
+
+namespace implementationOfTheHuffmanAlgorithm {
+    class HuffmanAlgorithm {
+    public:
+        std::unordered_map<char, int> toDivideTextIntoLetters(const std::string& inputText) {
+            std::unordered_map<char, int> letterCounts;
+            for (char everyLetter : inputText) {
+                letterCounts[everyLetter]++;
+            }
+
+            return letterCounts;
+        }
+
+        std::vector<std::pair<char, int>> toSortAscending(std::unordered_map<char, int>& letterCounts) {
+            std::vector<std::pair<char, int>> sortedElements(letterCounts.begin(), letterCounts.end());
+            std::sort(sortedElements.begin(), sortedElements.end(),
+                [](const std::pair<char, int>& a, const std::pair<char, int>& b) {
+                    return a.second < b.second;
+                });
+            return sortedElements;
+        }
+
+        treeNode* toCreateHuffmanNode(char symbol, int symbolFrequency) {
+            return new treeNode(symbol, symbolFrequency);
+        }
+
+        treeNode* toBuildHuffmanTree(vector<pair<char, int>>& sortedElements) {
+            auto compareNodes = [](treeNode* a, treeNode* b) {
+                return a->symbolFrequency > b->symbolFrequency;
+                };
+            priority_queue<treeNode*, vector<treeNode*>, decltype(compareNodes)> pq(compareNodes);
+
+            for (auto& element : sortedElements) {
+                treeNode* node = toCreateHuffmanNode(element.first, element.second);
+                pq.push(node);
+            }
+            while (pq.size() > 1) {
+                treeNode* left = pq.top();
+                pq.pop();
+                treeNode* right = pq.top();
+                pq.pop();
+                treeNode* parent = toCreateHuffmanNode('\0', left->symbolFrequency + right->symbolFrequency);
+                parent->left = left;
+                parent->right = right;
+                pq.push(parent);
+            }
+            return pq.top();
+        }
+
+        void toDeleteHuffmanTree(treeNode* root) {
+            if (root == nullptr) {
+                return;
+            }
+            else {
+                toDeleteHuffmanTree(root->left);
+                toDeleteHuffmanTree(root->right);
+                delete root;
+            }
+        }
+
+        void toPrintHuffmanCodes(treeNode* root, string code = "") {
+            if (root == nullptr) {
+                return;
+            }
+            else {
+                if (root->left == nullptr && root->right == nullptr) {
+                    cout << root->symbol << " : " << code << endl;
+                }
+                else {
+                    toPrintHuffmanCodes(root->left, code + "0");
+                    toPrintHuffmanCodes(root->right, code + "1");
+                }
+            }
+        }
+    };
+}
