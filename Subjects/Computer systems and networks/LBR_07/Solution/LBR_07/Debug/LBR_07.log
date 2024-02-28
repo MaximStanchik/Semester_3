@@ -1,0 +1,73 @@
+﻿Сборка начата 25.11.2023 13:59:29.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\LBR_07.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LBR_07.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Main.cpp
+         Main.cpp
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\IPOptionInfo.h(3,32): error C2011: icmp_echo_reply: переопределение типа "struct"
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(79,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\SendingEchoRequests.h(3,7): error C2373: IcmpSendEcho: переопределение; различные модификаторы типа
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\icmpapi.h(200,1): message : см. объявление "IcmpSendEcho"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(28,5): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(29,5): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(33,24): error C2065: IcmpSendEcho: необъявленный идентификатор
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(33,22): error C2440: инициализация: невозможно преобразовать "DWORD (__stdcall *)(HANDLE,IPAddr,LPVOID,WORD,PIP_OPTION_INFORMATION,LPVOID,DWORD,DWORD)" в "int"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(33,22): message : Не существует контекста, в котором такое преобразование возможно
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(36,58): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(41,54): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(42,44): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(43,46): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(44,34): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(44,65): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(45,39): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(45,84): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(50,17): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(52,25): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(66,47): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(77,45): error C2027: использование неопределенного типа "icmp_echo_reply"
+       D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\ReceivedEchoReplies.h(4,16): message : см. объявление "icmp_echo_reply"
+     1>D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(30,28): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+     1>Сборка проекта "D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\LBR_07.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\LBR_07.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\IPOptionInfo.h(3,32): error C2011: icmp_echo_reply: переопределение типа "struct"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\SendingEchoRequests.h(3,7): error C2373: IcmpSendEcho: переопределение; различные модификаторы типа
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(28,5): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(29,5): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(33,24): error C2065: IcmpSendEcho: необъявленный идентификатор
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(33,22): error C2440: инициализация: невозможно преобразовать "DWORD (__stdcall *)(HANDLE,IPAddr,LPVOID,WORD,PIP_OPTION_INFORMATION,LPVOID,DWORD,DWORD)" в "int"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(36,58): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(41,54): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(42,44): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(43,46): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(44,34): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(44,65): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(45,39): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(45,84): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(50,17): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(52,25): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(66,47): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(77,45): error C2027: использование неопределенного типа "icmp_echo_reply"
+         D:\User\Desktop\EverythingForBSTU\Компьютерные системы и сети\2-ый курс 3-ой семестр\LBR_07\Solution\LBR_07\Main.cpp(30,28): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+
+    Предупреждений: 0
+    Ошибок: 19
+
+Прошло времени 00:00:01.24
